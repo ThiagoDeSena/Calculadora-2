@@ -1,8 +1,7 @@
 # Calculadora Flutter
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: inline-block; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/ada233c1-eb7c-4a63-8904-6f06cae21f64" alt="Tela da calculadora 1" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/10f76480-e86f-49b4-8f37-9b85afd1db0d" alt="Tela da calculadora 2" style="width: 50%;">
 </div>
 
 
